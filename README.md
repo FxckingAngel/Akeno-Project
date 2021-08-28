@@ -9,4 +9,4 @@ Her setup will be easy as pie
 
 You need a database for your token. We will grab your token from a database for more safety
 
-Do ```Npm i qucik.db```
+Do ```Npm i quick.db```
