@@ -7,6 +7,13 @@ Her setup will be easy as pie
 
 ![Test Image 1](https://c4.wallpaperflare.com/wallpaper/971/216/16/anime-girls-anime-yu-ra-fishnet-stockings-hd-wallpaper-preview.jpg)
 
-You need a database for your token. We will grab your token from a database for more safety
+You need a `config.json` then add this in it
 
-Do ```Npm i quick.db```
+`
+{
+    "token": "Your token",
+    "prefix": "ao"
+}
+`
+
+
